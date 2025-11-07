@@ -1,4 +1,4 @@
-## 🔐 **3️⃣ Proyecto: Login Simple**
+## 🔐 ** Proyecto: Login Simple**
 Video de entrenamiento
 R1: https://www.youtube.com/watch?v=ymXJlPeM-qI
 
