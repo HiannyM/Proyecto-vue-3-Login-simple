@@ -11,15 +11,11 @@ en el frontend y redirige al usuario a una vista protegida si los datos son corr
 ## 🚀 Tecnologías Utilizadas
 - **Vue 3 + <script setup>**
 - **TypeScript**
-- **Vue Router**
-- **Pinia**
-- **TailwindCSS**
 - **Vite**
 
 ## 🧩 Funcionalidades
 - Formulario de login con validación básica.
 - Redirección condicional según autenticación.
-- Almacenamiento del estado del usuario (login/logout) con Pinia.
 - Protección de rutas (solo accesibles si el usuario está autenticado).
 
 ## ⚙️ Instalación
